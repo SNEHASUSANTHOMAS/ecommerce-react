@@ -32,8 +32,8 @@ ShoppyGlobe is a simple e-commerce web application built using React, Redux Tool
 ### 1. Clone the repository
 
 ```bash
-git clone git remote add origin https://github.com/SNEHASUSANTHOMAS/ecommerce-react.git
-cd shoppyglobe
+git clone https://github.com/SNEHASUSANTHOMAS/ecommerce-react.git
+cd ecommerce-react
 npm install
 npm run dev
 The app will be available at:
